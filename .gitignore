@@ -1,0 +1,17 @@
+.vscode/
+__pycache__
+*/__pycache__/
+**/__pycache__
+
+logs
+*.log
+.env
+*.pem
+
+venv/
+**/venv/
+*/venv
+.env
+.venv/
+*/.venv/
+**/.venv/
